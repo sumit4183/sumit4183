@@ -83,8 +83,10 @@ I’m a Computer Science graduate with a strong foundation in Data Science and h
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumit4183&show_icons=true&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumit4183&show_icons=true&theme=dark&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumit4183&theme=dark)
+
 
 ---
 
