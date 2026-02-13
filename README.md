@@ -94,7 +94,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sumitpatel/sumit4183/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/sumit4183/sumit4183/output/github-contribution-grid-snake.svg" />
 </div>
 
 <div align="center">
