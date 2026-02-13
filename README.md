@@ -94,7 +94,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sumit4183/sumit4183/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/sumit4183/sumit4183/output/isometric-cal.svg" alt="Isometric Contribution Grid" />
 </div>
 
 <div align="center">
