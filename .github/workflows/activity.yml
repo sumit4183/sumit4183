@@ -20,3 +20,4 @@ jobs:
         with:
           COMMIT_MSG: 'Update README with the recent activity'
           MAX_LINES: 5
+          GH_USERNAME: sumit4183
