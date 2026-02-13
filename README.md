@@ -93,9 +93,11 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sumit4183/sumit4183/output/isometric-cal.svg" alt="Isometric Contribution Grid" />
-</div>
+### ⚡ Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br>
 
 <div align="center">
   
