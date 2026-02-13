@@ -18,6 +18,6 @@ jobs:
         with:
           feed_list: "https://github.com/sumit4183.atom"
           max_post_count: 5
-          template: "$date: $title$newline"
+          template: "- $date: [$title]($url)$newline"
           date_format: "mm/dd/yyyy"
           tag_post_pre_newline: true
