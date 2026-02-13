@@ -26,16 +26,10 @@ jobs:
       - name: Generate isometric contribution graph
         uses: lowlighter/metrics@latest
         with:
-          filename: dist/isometric-cal.svg
+          filename: isometric-cal.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: output
+          committer_message: Update isometric graph
