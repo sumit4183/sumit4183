@@ -14,10 +14,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: nathanbedford/github-activity-readme-action@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: 'Update README with the recent activity'
           MAX_LINES: 5
-          GH_USERNAME: sumit4183
