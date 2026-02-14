@@ -35,20 +35,18 @@
 
 ---
 
-### ⚡ Recent Activity
-<!-- BLOG-POST-LIST:START -->
-- 02/13/2026: [sumit4183 pushed sumit4183](https://github.com/sumit4183/sumit4183/compare/ac1f3f7894...14d0c47c15)
-- 02/13/2026: [sumit4183 pushed sumit4183](https://github.com/sumit4183/sumit4183/compare/c6f170b291...9bb105c3bb)
-- 02/13/2026: [sumit4183 starred facebook/react](https://github.com/facebook/react)
-- 02/13/2026: [sumit4183 pushed sumit4183](https://github.com/sumit4183/sumit4183/compare/ac75397d7e...c6f170b291)
-- 02/13/2026: [sumit4183 pushed sumit4183](https://github.com/sumit4183/sumit4183/compare/d42b18e233...ac75397d7e)
+### 📊 Stats
 
-<!-- BLOG-POST-LIST:END -->
+<div align="center">
 
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumit4183&\hide_border=true&theme=default&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit4183&hide_border=true&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 <br>
 
 <div align="center">
-  
+
   ⭐️ *Always open to collaboration, learning opportunities, and interesting conversations.*
 
 </div>
