@@ -39,8 +39,7 @@
 
 <div align="center">
 
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumit4183&\hide_border=true&theme=default&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit4183&hide_border=true&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+  ![GitHub Metrics](https://raw.githubusercontent.com/sumit4183/sumit4183/master/github-metrics.svg)
 
 </div>
 <br>
