@@ -41,6 +41,19 @@
 
   ![GitHub Metrics](https://raw.githubusercontent.com/sumit4183/sumit4183/master/github-metrics.svg)
 
+  <br>
+
+  <details>
+    <summary>ℹ️  What do these stats mean?</summary>
+    <br>
+    <ul>
+      <li><b>Repositories</b>: Public projects I've created or own.</li>
+      <li><b>Contributed to</b>: Projects I've helped build (Open Source / Teams).</li>
+      <li><b>Watchers</b>: People following my projects for updates.</li>
+      <li><b>Languages</b>: Total programming languages used across my code.</li>
+    </ul>
+  </details>
+
 </div>
 <br>
 
