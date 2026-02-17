@@ -38,6 +38,22 @@
 
 ---
 
+### 🚀 Featured Projects
+
+- [**SkillSync - AI Resume Optimizer**](https://github.com/sumit4183/SkillSync)  
+  *A semantic intelligence platform that helps job seekers beat the ATS using vector embeddings for context-aware matching.*  
+  `Next.js` `FastAPI` `PyTorch` `SpaCy` `Supabase` `Docker`
+
+- [**Smart Expense Tracker**](https://github.com/sumit4183/SmartExpenseTracker)  
+  *A native iOS app with on-device AI for automated financial tracking and real-time anomaly detection.*  
+  `Swift` `CoreML` `SwiftUI` `CoreData` `iOS`
+
+- [**Travel Smart App**](https://github.com/sumit4183/Travel-Smart-App)  
+  *An AI-powered travel management app integrating flight/hotel booking, itinerary management, and real-time updates.*  
+  `Next.js` `Django` `PostgreSQL` `PyTorch` `React`
+
+---
+
 ### 📊 Stats
 
 <div align="center">
@@ -50,9 +66,7 @@
     <summary>ℹ️  What do these stats mean?</summary>
     <br>
     <ul>
-      <li><b>Repositories</b>: Public projects I've created or own.</li>
       <li><b>Contributed to</b>: Projects I've helped build (Open Source / Teams).</li>
-      <li><b>Watchers</b>: People following my projects for updates.</li>
       <li><b>Languages</b>: Total programming languages used across my code.</li>
     </ul>
   </details>
