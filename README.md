@@ -12,7 +12,7 @@
   <br>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sumit4183)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://sumtip.netlify.app)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://sumitp.netlify.app)
   [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:sumit4183@yahoo.com)
 
 </div>
